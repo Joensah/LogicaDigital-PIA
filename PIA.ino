@@ -1,6 +1,6 @@
-//Jorge Enrique Salas Hernández
+//Joensah
 //Lógica Digital     Grupo: 004
-//Avance #10
+//Avance #10 FINAL
 
 
 //Incluimos nuestras librerías y declaramos nuestras variables
